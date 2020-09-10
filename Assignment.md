@@ -125,18 +125,18 @@ If this is completed, create one or more test files to show off your work.
 
 # Grading Rubric
 
-- [ ] [**core**] Used doodle framework to produce a `points.png` image file
-- [ ] [**core**] Used `cin` and `cout` for input and output
-- [ ] [**core**] Used the most appropriate loop statement to read in all the 2D integer points
-- [ ] [**core**] Generated image file matches the sample's generated image files in both size and colors.
-- [ ] Console output text is similar to the sample executable
-- [ ] All source files compile without warnings and without errors.
-- [ ] Correct files submitted. No unnecessary files submitted.
-- [ ] Submitted source files on the course site and on this repository are exactly the same.
-- [ ] **All** Source Code has a proper header comment: Name, Assignment Name, Course Number, Term & Year.
-- [ ] Followed the appropriate Code Quality Guidelines and Code Style Guidelines.
-- [ ] Created a properly filled out `ReadMe.md` file
-- [ ] All requirements that are completed are checked off here by replacing the `[ ]` with `[x]`
+- [x] [**core**] Used doodle framework to produce a `points.png` image file
+- [x] [**core**] Used `cin` and `cout` for input and output
+- [x] [**core**] Used the most appropriate loop statement to read in all the 2D integer points
+- [x] [**core**] Generated image file matches the sample's generated image files in both size and colors.
+- [x] Console output text is similar to the sample executable
+- [x] All source files compile without warnings and without errors.
+- [x] Correct files submitted. No unnecessary files submitted.
+- [x] Submitted source files on the course site and on this repository are exactly the same.
+- [x] **All** Source Code has a proper header comment: Name, Assignment Name, Course Number, Term & Year.
+- [x] Followed the appropriate Code Quality Guidelines and Code Style Guidelines.
+- [x] Created a properly filled out `ReadMe.md` file
+- [x] All requirements that are completed are checked off here by replacing the `[ ]` with `[x]`
 
 Scores for Assignments will be given as the following:
 
